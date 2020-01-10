@@ -4,7 +4,7 @@ Hello World!!!!!!!!
 Welcome To Git!!!!!!!!!!!
 
 Feature 1 - login 
-Feature 2- login
+Feature 2- login- update 3 way
 
 bug1 - fixed
 
