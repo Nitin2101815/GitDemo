@@ -8,3 +8,5 @@ Feature 2- login
 
 bug1 - fixed
 
+bug2- fixed
+
