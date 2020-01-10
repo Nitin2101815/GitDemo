@@ -4,8 +4,8 @@ Hello World!!!!!!!!
 Welcome To Git!!!!!!!!!!!
 
 
-Feature 1 - login 
-Feature 2- login- update 3 way
+Feature 1 ->. login 
+Feature 2- >login- update 3 way
 
 Feature 1 - login  - update by team for checking 3 way merging
 Feature 2- logout
@@ -16,3 +16,4 @@ bug1 - fixed
 bug2- fixed
 bug 3-fixed
 
+change Added for rebase test
