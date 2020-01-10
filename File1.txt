@@ -22,4 +22,9 @@ Change - push for 1
 
 change - 222
 
+
+
+
+change 3- test for rebase for local master
+ change for 3 local
 change 4-- change for remote
