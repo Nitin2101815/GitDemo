@@ -4,9 +4,10 @@ Hello World!!!!!!!!
 Welcome To Git!!!!!!!!!!!
 
 Feature 1 - login 
-Feature 2- login
+Feature 2- logout
 
 bug1 - fixed
 
 bug2- fixed
+bug 3-fixed
 
